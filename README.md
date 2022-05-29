@@ -1,7 +1,7 @@
 # Predict Customer Churn
 
 - Project **Predict Customer Churn** of ML DevOps Engineer Nanodegree Udacity
-This projects is based around creating tests, logging, and best coding practices using Python.  
+- This projects is based around creating tests, logging, and best coding practices using Python.  
 We will implement your learnings from the course to identify credit card customers that are most likely to churn using a dataset from [Kaggle website](https://www.kaggle.com/sakshigoyal7/credit-card-customers/code) 
 
 ## Project Description
