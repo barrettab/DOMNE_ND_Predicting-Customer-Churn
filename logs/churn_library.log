@@ -1,0 +1,12 @@
+root - INFO - Testing import_data: SUCCESS
+root - INFO - Testing perform_eda -- Churn: SUCCESS
+root - INFO - Testing perform_eda -- Customer_Age: SUCCESS
+root - INFO - Testing perform_eda -- Marital_Status: SUCCESS
+root - INFO - Testing perform_eda -- Total_Trans_Ct: SUCCESS
+root - INFO - Testing perform_eda -- corr_heatmap: SUCCESS
+root - INFO - Testing encoder_helper: SUCCESS
+root - INFO - Testing feature_engineering: SUCCESS
+root - INFO - Testing testing_models: SUCCESS
+root - INFO - Testing testing_models (report generation): SUCCESS
+root - INFO - Testing testing_models (report generation): SUCCESS
+root - INFO - Testing testing_models (report generation): SUCCESS
