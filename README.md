@@ -7,12 +7,9 @@ We will implement your learnings from the course to identify credit card custome
 ## Project Description
 In this project we move from a jupyter notebook with a data science task to production code. 
 
-* `churn_library.py`: library containing all functions of the data science task
-* `churn_script_logging_and_tests.py`: Task and logging that test the functions of the churn_library.py library and log erros that occour.
-* `churn_notebook.ipynb` : The original notebook containing the initial data science project
-
+### Project Structure
 - data
-  - bank_data.csv
+  - `bank_data.csv`: Dataset used for this project. 
 - images
   - eda
    - churn_distribution.png
@@ -26,20 +23,19 @@ In this project we move from a jupyter notebook with a data science task to prod
    - rf_results.png
    - roc_curve_result.png
 - logs
-  - churn_library.log
+  - `churn_library.log`: When running scripts all logs will be written here.
 - models
   - logistic_model.pkl
   - rfc_model.pkl
-- churn_library.py
-- churn_notebook.ipynb
-
-
-* churn_script_logging_and_tests.py
-* README.md
+- `churn_library.py`: library containing all functions of the data science task
+- `churn_notebook.ipynb`: The original notebook containing the initial data science project
+- `churn_script_logging_and_tests.py`: Task and logging that test the functions of the churn_library.py library and log erros that occour.
+- requirements.txt
+- README.md
 
 
 ## Running Files
-All python libraries used in this repository can be `pip` installed. 
+All python libraries used in this repository can be `pip` installed and are found in requirements.txt. 
 
 You can run the the following commands in order to retrieve the results:
 
