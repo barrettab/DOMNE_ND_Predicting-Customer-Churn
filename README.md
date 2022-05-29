@@ -11,6 +11,30 @@ In this project we move from a jupyter notebook with a data science task to prod
 * `churn_script_logging_and_tests.py`: Task and logging that test the functions of the churn_library.py library and log erros that occour.
 * `churn_notebook.ipynb` : The original notebook containing the initial data science project
 
+* data
+** bank_data.csv
+* images
+** eda
+*** churn_distribution.png
+*** customer_age_distribution.png
+*** heatmap.png
+*** marital_status_distribution.png
+*** total_transaction_distribution.png
+* results
+** feature_importance.png
+** logistics_results.png
+** rf_results.png
+** roc_curve_result.png
+* logs
+** churn_library.log
+* models
+** logistic_model.pkl
+** rfc_model.pkl
+** churn_library.py
+* churn_notebook.ipynb
+* churn_script_logging_and_tests.py
+* README.md
+
 
 ## Running Files
 All python libraries used in this repository can be `pip` installed. 
