@@ -24,7 +24,7 @@ In this project we move from a jupyter notebook with a data science task to prod
    - roc_curve_result.png
 - logs
   - `churn_library.log`: When running scripts all logs will be written here.
-- models
+- `models`: All ML models will be saved to this folder
   - logistic_model.pkl
   - rfc_model.pkl
 - `churn_library.py`: library containing all functions of the data science task
