@@ -11,16 +11,16 @@ In this project we move from a jupyter notebook with a data science task to prod
 - data
   - `bank_data.csv`: Dataset used for this project. 
 - images
-  - eda
-   - churn_distribution.png
-   - customer_age_distribution.png
-   - heatmap.png
-   - marital_status_distribution.png
-   - total_transaction_distribution.png
- - results
+  - eda: all images produced by the eda process will be saved here
+   - churn.png
+   - customer_age.png
+   - corr_heatmap.png
+   - marital_status.png
+   - total_transaction_ct.png
+ - results: all images produced by the model traiing process will be saved here
    - feature_importance.png
    - logistics_results.png
-   - rf_results.png
+   - random_forest.png
    - roc_curve_result.png
 - logs
   - `churn_library.log`: When running scripts all logs will be written here.
@@ -35,7 +35,7 @@ In this project we move from a jupyter notebook with a data science task to prod
 
 
 ## Running Files
-All python libraries used in this repository can be `pip` installed and are found in requirements.txt. 
+All python libraries used in this repository can be `pip` installed and are found in `requirements.txt`. 
 
 You can run the the following commands in order to retrieve the results:
 
